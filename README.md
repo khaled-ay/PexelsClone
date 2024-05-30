@@ -1,4 +1,5 @@
-[screen-recorder-fri-may-31-2024-01-57-12.webm](https://github.com/khaled-ay/PexelsClone/assets/119243712/357d1aaf-e9c1-4017-8cfc-c58b8f435da8)
+
+[pexelsclone.webm](https://github.com/khaled-ay/PexelsClone/assets/119243712/db57f939-72b1-40ba-a5ed-d5a2455d4fc1)
 
 Key Features
 - React with Vite: Fast and efficient development environment.
